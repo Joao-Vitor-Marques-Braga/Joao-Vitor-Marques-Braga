@@ -13,8 +13,9 @@
   <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Jv-JavaScript" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Jv-React" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="right" alt="J-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817192762049822724/1030470346350014545/image.jpeg">
 </div>
-<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817192762049822724/1030470346350014545/image.jpeg">
+
 ##
 
 <div align="center">
@@ -23,3 +24,5 @@
   
    ![Snake animation](https://github.com/Joao-Vitor-Marques-Braga/Joao-Vitor-Marques-Braga/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+  ![Snake animation]
