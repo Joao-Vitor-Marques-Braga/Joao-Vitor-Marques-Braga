@@ -13,7 +13,9 @@
   <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Jv-JavaScript" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Jv-React" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Jv-Bootstrap" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="right" alt="J-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817192762049822724/1030470346350014545/image.jpeg">
+  
 </div>
 
 ##
