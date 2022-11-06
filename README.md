@@ -13,6 +13,7 @@
   <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Jv-JavaScript" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Jv-React" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Jv-Flask" height ='50' width='7%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
   <img alt="Jv-Bootstrap" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="Jv-VSCode" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img alt="Jv-PyCharm" height="50" width="5%" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
