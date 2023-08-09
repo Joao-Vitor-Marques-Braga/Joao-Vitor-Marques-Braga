@@ -12,7 +12,6 @@
   <img alt="Jv-React" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Jv-Java" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="J-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817192762049822724/1030470346350014545/image.jpeg">
 </div>
 
 ##
@@ -20,5 +19,5 @@
 <div align="center">
   <a href="https://www.instagram.com/j_v_joaovitor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovitorkge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-marques-braga/"><img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=linkedin"></a>
+  <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-marques-braga/"><img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin"></a>
 </div>
