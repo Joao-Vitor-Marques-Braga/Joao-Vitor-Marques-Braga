@@ -8,22 +8,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Marques-Braga&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img alt="Jv-HTML" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="Jv-CSS" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Jv-JavaScript" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Jv-React" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Jv-Flask" height ='50' width='7%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-  <img alt="Jv-Bootstrap" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Jv-VSCode" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-  <img alt="Jv-PyCharm" height="50" width="5%" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Jv-Java" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="right" alt="J-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817192762049822724/1030470346350014545/image.jpeg">
-  
 </div>
 
 ##
 
 <div align="center">
   <a href="https://www.instagram.com/j_v_joaovitor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:devjoaovitormb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaovitorkge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-marques-braga/"><img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=linkedin"></a>
 </div>
