@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Marques-Braga&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img alt="Jv-JavaScript" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Jv-React" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Jv-Java" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
