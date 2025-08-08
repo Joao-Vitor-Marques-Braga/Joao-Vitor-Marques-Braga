@@ -10,7 +10,6 @@
 <div align="center" style="display: inline_block"><br>
   <img alt="Jv-React" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Jv-Python" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="Jv-Java" height="50" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 ##
