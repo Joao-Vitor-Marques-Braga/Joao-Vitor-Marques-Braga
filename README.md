@@ -50,7 +50,7 @@
 
 - **RememberFlash:** Aplicativo Android nativo (Kotlin, Jetpack Compose, Clean Architecture) voltado à preparação para concursos públicos, integrando esteiras com IA generativa e OCR.
 - **Pedidos Conectados:** Micro SaaS de fluxo e gestão de orçamentos e pedidos para PMEs, desacoplado e integrado a banco relacional.
-- **DateInLink:** Plataforma de convites dinâmicos com autenticação, banco NoSQL e processamento transacional via Stripe.
+- **PetCare:** Sistema completo para gestão e agendamento de serviços em pet shops e clínicas veterinárias, com controle de clientes/pets, fluxo de atendimento e integração de comunicação.
 
 ---
 
