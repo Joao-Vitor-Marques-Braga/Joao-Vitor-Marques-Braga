@@ -14,13 +14,15 @@
 ### 💻 GitHub Stats & Top Languages
 
 <div align="center">
+  <!-- Troféus do GitHub -->
   <a href="https://github.com/Joao-Vitor-Marques-Braga">
-    <!-- Streak de Contribuições -->
-    <img height="180em" src="https://streak-stats.demolab.com?user=Joao-Vitor-Marques-Braga&theme=midnight-purple" alt="GitHub Streak" />
-    <!-- Gráfico de Atividade Recente -->
-    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-Marques-Braga&theme=midnight-purple&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Joao-Vitor-Marques-Braga&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
-</div>
+  <br><br>
+  <!-- Streak Stats -->
+  <a href="https://github.com/Joao-Vitor-Marques-Braga">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Joao-Vitor-Marques-Braga&theme=midnight-purple" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
