@@ -15,9 +15,12 @@
 
 <div align="center">
   <a href="https://github.com/Joao-Vitor-Marques-Braga">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Marques-Braga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Marques-Braga&layout=compact&langs_count=8&theme=midnight-purple" alt="Linguagens mais utilizadas" />
+    <!-- Streak de Contribuições -->
+    <img height="180em" src="https://streak-stats.demolab.com?user=Joao-Vitor-Marques-Braga&theme=midnight-purple" alt="GitHub Streak" />
+    <!-- Gráfico de Atividade Recente -->
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-Marques-Braga&theme=midnight-purple&area=true&hide_border=true" alt="Activity Graph" />
   </a>
+</div>
 </div>
 
 ---
